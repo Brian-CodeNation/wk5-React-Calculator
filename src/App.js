@@ -26,10 +26,10 @@ const App = () => {
   };
 
   return (
-    <div className="calc">
+    <div className="app">
       <h1>Calculator Demo</h1>
       <h3 className="display">SUM: {sum}</h3>
-      <div>
+      <div className="buttonWrap">
         {buttons.map((button, index) => {
           return (
             <button key={index} className="buttonBox" onClick={()=>handleClick(button)}>{button}</button>
