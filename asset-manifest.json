@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Brian-CodeNation/wk5-React-Calculator/static/css/main.70704fc0.css",
-    "main.js": "/Brian-CodeNation/wk5-React-Calculator/static/js/main.cc1ef71f.js",
-    "index.html": "/Brian-CodeNation/wk5-React-Calculator/index.html",
-    "main.70704fc0.css.map": "/Brian-CodeNation/wk5-React-Calculator/static/css/main.70704fc0.css.map",
-    "main.cc1ef71f.js.map": "/Brian-CodeNation/wk5-React-Calculator/static/js/main.cc1ef71f.js.map"
+    "main.css": "/wk5-React-Calculator/static/css/main.70704fc0.css",
+    "main.js": "/wk5-React-Calculator/static/js/main.cc1ef71f.js",
+    "index.html": "/wk5-React-Calculator/index.html",
+    "main.70704fc0.css.map": "/wk5-React-Calculator/static/css/main.70704fc0.css.map",
+    "main.cc1ef71f.js.map": "/wk5-React-Calculator/static/js/main.cc1ef71f.js.map"
   },
   "entrypoints": [
     "static/css/main.70704fc0.css",
